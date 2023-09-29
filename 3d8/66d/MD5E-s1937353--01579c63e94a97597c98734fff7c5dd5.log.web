@@ -1,0 +1,2 @@
+1695986061.646295s 1 https://dandiarchive.s3.amazonaws.com/zarr/c1aa479e-592a-442e-aed8-19c43a1a3648/0/0/42/21?versionId=k6JHCMo3isNTsq7mDXNetANR39u2LnPX
+1695986061.65213s 1 https://api.dandiarchive.org/api/zarr/c1aa479e-592a-442e-aed8-19c43a1a3648/files?prefix=0%2F0%2F42%2F21&download=true
